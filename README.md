@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mayar Atef 👋
 
-<!--
-**MayarrAteff/MayarrAteff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer focused on clarity, comfort, and clean architecture  
+I build responsive, maintainable interfaces using **React**, **TypeScript**, and **Tailwind CSS** — with a strong eye for accessibility, performance, and expressive error handling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- ⚛️ React, 🟦 TypeScript, 🌬️ Tailwind CSS, 🎨 Material UI, ⚡ Vite  
+- 🌐 WordPress, 🛍️ Shopify, 🐘 PHP, 🗄️ SQL  
+- 🔧 Git, 🖌️ Figma, 📋 Jira, ✅ ClickUp, 🎞️ Canva
+
+---
+
+## 💡 What I Care About
+
+- ♻️ Reusable, direction-aware components (RTL/LTR)  
+- 🔐 Type-safe logic and scalable UI architecture  
+- ✍️ Clear UX flows and crisp product copy  
+- 🤝 Collaborative iteration and pixel-perfect implementation
+
+---
+
+✨ Let’s build something expressive and intentional
